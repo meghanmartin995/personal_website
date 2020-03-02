@@ -1,0 +1,18 @@
+
+.button a {
+  background-color: white;
+  border-radius: 9px;
+  padding: 15px 40px;
+  text-decoration: none;
+  color: #ED383A;
+  font-family:'Montserrat', sans-serif;
+  font-weight: 700;
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: all .3s ease 0s;
+}
+
+.button a:hover {
+  opacity: .7;
+  transition: all .3s ease 0s;
+}

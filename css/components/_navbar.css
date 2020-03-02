@@ -1,0 +1,26 @@
+.links {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-header a {
+  color: white;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  transition: 0.5s;
+  font-size: 18px;
+  letter-spacing: 1.3px;
+}
+
+.nav-header a:hover {
+  opacity: .4;
+}
+
+.nav-header .links {
+  padding-top: 30px;
+}
+
+.nav-header {
+  margin-bottom: 30px;
+}

@@ -1,0 +1,162 @@
+.first-section {
+  display: flex;
+  margin-bottom: 50px;
+}
+
+.project-container img {
+  width: 750px;
+  height: auto;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.no-border img {
+  box-shadow: none;
+}
+
+.project-container p {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  letter-spacing: 0.02em;
+  line-height: 27px;
+}
+
+.role {
+  padding: 30px;
+  padding-left: 40px;
+}
+.role p {
+  letter-spacing: 0.03em;
+}
+
+.left {
+  padding: 30px;
+}
+
+.img-resize img {
+  width: 400px;
+  height: auto;
+}
+
+.img-resize2 img {
+  width: 400px;
+  height: auto;
+}
+
+
+.img-resize-small img {
+  width: 300px;
+  height: auto;
+  margin: 15px;
+}
+
+.img-resize-small2 img {
+  width: 380px;
+  height: auto;
+  margin: 15px;
+}
+
+.img-resize-med img {
+  width: 800px;
+  height: auto;
+  margin: 25px;
+}
+
+.img-resize-med2 img {
+  width: 700px;
+  height: auto;
+  margin: 25px;
+}
+
+.second-section {
+  display: flex;
+  margin-bottom: 90px;
+}
+
+.center-section {
+  display: flex;
+  padding-bottom: 60px;
+  margin: 0 auto;
+  justify-content: center;
+}
+
+.center-section-dog {
+  display: flex;
+  width: 80%;
+  padding-bottom: 60px;
+  margin: 0 auto;
+}
+
+.center-section-mf {
+  padding-bottom: 30px;
+}
+
+.center-section-dog img {
+  width: 300px;
+  height: 300px;
+  margin: 15px;
+}
+
+.img-resize-thrive img {
+  width: 500px;
+  height: auto;
+  margin: 15px;
+}
+
+.img-resize-thrive2 img {
+  width: 600px;
+  height: auto;
+  margin: 15px;
+}
+
+.img-resize-thrive3 img {
+  width: 700px;
+  height: auto;
+}
+.img-resize-lucid img {
+  width: 550px;
+  height: auto;
+  margin: 15px;
+}
+.center-section-machine {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 60px;
+}
+
+.fourth-section {
+  display: flex;
+  margin-bottom: 90px;
+}
+
+.third-section {
+  display: flex;
+  margin-bottom: 90px;
+}
+
+.fifth-section {
+  display: flex;
+  margin-bottom: 60px;
+}
+.project-container h1 {
+  font-weight: 500;
+  font-size: 30px;
+  letter-spacing: 0.1em;
+  margin-top: 100px;
+  margin-bottom: 30px;
+}
+
+.project-container span {
+  font-weight: 200;
+  font-size: 28px;
+  letter-spacing: 0.08em;
+}
+
+.role span {
+  font-weight: 600;
+  font-size: 20px;
+  letter-spacing: 0.05em;
+}

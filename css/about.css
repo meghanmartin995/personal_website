@@ -1,0 +1,39 @@
+
+
+.about-content  {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  width: 1000px;
+  margin: 0 auto;
+  margin-bottom: 35px;
+}
+.content-about h2 {
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+}
+
+.content-about p {
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 200;
+}
+
+
+.text-center p {
+  margin-top: 0;
+  line-height: 29px;
+}
+
+.text-center h2 {
+  margin-top: 25px;
+}
+
+.photo img {
+  width: 275px;
+  border-radius: 95%;
+}
+
+
